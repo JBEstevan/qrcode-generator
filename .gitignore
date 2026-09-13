@@ -31,7 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
-=======
+
 # Compiled class file
 *.class
 
@@ -52,3 +52,5 @@ build/
 *.zip
 *.tar.gz
 *.rar
+
+.env
